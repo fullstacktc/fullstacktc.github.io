@@ -29,9 +29,9 @@ footer-links:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter: fullstacktc
   stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCYdKkG-kbc1iuqXO6_yVkYA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
@@ -41,12 +41,12 @@ footer-links:
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics: UA-50129168-3
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: http://fullstacktc.org
+enforce_ssl: https://fullstacktc.org
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
